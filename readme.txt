@@ -1,7 +1,7 @@
 Python Password-Generator
 
-Developed by Shiven Saini Class 12 Science
-Contact :- shivensaini73@gmail.com
+Developed by Neerajx Jayesh Class 12 Science
+Contact :- neerajxjayesh@gmail.com
 
 Python Libraries used :- Random
 
